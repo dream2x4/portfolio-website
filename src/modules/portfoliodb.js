@@ -11,7 +11,7 @@ const getPortfolio = () => {
             link: 'https://onedrive.live.com/?id=38F91BE5CA5DA4A9%21497&cid=38F91BE5CA5DA4A9',
             category: 'UX',
             tech: 'XD, Illustrator & Photoshop',
-            teammembers: 'Alberte, Anne-Sofie, Tanya & Dream'
+            teammembers: 'Team - Alberte, Anne-Sofie, Tanya & Dream'
         },
         {
             id: 2,

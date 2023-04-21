@@ -32,7 +32,7 @@
           </div>
         </div>
       
-        <a class="link-cv" href="https://onedrive.live.com/?id=38F91BE5CA5DA4A9%21495&cid=38F91BE5CA5DA4A9">DOWNLOAD CV</a>
+        <a class="link-cv" href="https://onedrive.live.com/?cid=38F91BE5CA5DA4A9&id=38F91BE5CA5DA4A9%21514&parId=38F91BE5CA5DA4A9%21495&o=OneUp">DOWNLOAD CV</a>
 
       </div>
 
