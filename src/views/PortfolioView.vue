@@ -191,7 +191,7 @@ h2 {
 @media (max-width: 576px){
 
 .portfolio-container {
-  margin-left: 2rem;
+  margin: 0 2rem;
 }
 
 h2 {
